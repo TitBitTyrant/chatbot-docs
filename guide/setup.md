@@ -1,2 +1,2 @@
-# Setup
+# Setting up ChatBot
 
