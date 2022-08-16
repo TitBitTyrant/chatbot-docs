@@ -7,6 +7,7 @@
 
 ## Guide
 
+* [Setup](guide/setup.md)
 * [Introduction](guide/introduction.md)
 * [The Network](guide/network/README.md)
   * [Disconnecting](guide/network/disconnect.md)
